@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2022-11-20
+  Feature:
+    - Adds a panel to the logistic window that shows what additional buildings you can produce based on what you have available in the network.
